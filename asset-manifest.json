@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/X-Ray-Enchancer/static/css/main.54ed9a54.css",
+    "main.js": "/X-Ray-Enchancer/static/js/main.94512bb6.js",
+    "static/media/v1.mp4": "/X-Ray-Enchancer/static/media/v1.cf1b3460921962a54ef5.mp4",
+    "static/media/Pro.png": "/X-Ray-Enchancer/static/media/Pro.308fa01688ba268b3d45.png",
+    "index.html": "/X-Ray-Enchancer/index.html",
+    "main.54ed9a54.css.map": "/X-Ray-Enchancer/static/css/main.54ed9a54.css.map",
+    "main.94512bb6.js.map": "/X-Ray-Enchancer/static/js/main.94512bb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54ed9a54.css",
+    "static/js/main.94512bb6.js"
+  ]
+}
